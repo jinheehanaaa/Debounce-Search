@@ -1,6 +1,13 @@
 # Obejctive
 - Debounce Search in the list
 
+# Initial Setup
+- Download extra software: <code>flutter doctor</code>
+- Create Project (ex:"first_app"): <code>flutter create first_app</code>
+- Check emulator: <code>Flutter emulators</code>
+- Open emulator: <code>flutter emulators --launch Pixel_3_API_32</code>
+- Run project from emulator: <code>flutter run</code>
+
 # Phase 1: 
 - Search here UI
 
