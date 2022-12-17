@@ -2,7 +2,7 @@
 - Debounce Search in the list
 
 # Study
-- Why use Nullable types: <code>  if (_debounce?.isActive ?? false) _debounce?.cancel();</code>
+- Nullable types: <code>  if (_debounce?.isActive ?? false) _debounce?.cancel();</code>
 
 
 # Initial Setup
