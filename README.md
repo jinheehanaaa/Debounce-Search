@@ -2,7 +2,8 @@
 - Debounce Search in the list
 
 # Study
-- Null operator: <code>  if (_debounce?.isActive ?? false) _debounce?.cancel();</code>
+- Why use Nullable types: <code>  if (_debounce?.isActive ?? false) _debounce?.cancel();</code>
+
 
 # Initial Setup
 - Android Studio with emulator
